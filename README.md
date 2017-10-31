@@ -1,8 +1,8 @@
 # Overlook
-1. [Design of implementation](README.md#Design of implementation)
-2. [Description of each class](README.md#Description of each class)
-3. [Results](README.md#Results)
-4. [Conclusion](README.md#Conclusion)
+1. [Design of implementation](README.md#design-of-implementation)
+2. [Description of each class](README.md#description-of-each-class)
+3. [Results](README.md#results)
+4. [Conclusion](README.md#conclusion)
 
 # Design of implementation
 For this challenge, we have two missions to do:
